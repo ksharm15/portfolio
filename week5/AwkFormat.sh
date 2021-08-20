@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo "Google Server IPs:"
+#It will take input.txt and generate formated text
 
 awk 'BEGIN {
 

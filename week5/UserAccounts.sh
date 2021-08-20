@@ -19,7 +19,7 @@ awk 'BEGIN {
     printf("| \033[33m%-18s\033[0m | \033[35m%-12s\033[0m | \033[35m%-12s\033[0m | \033[35m%-32s\033[0m | \033[35m%-20s\033[0m |\n", $1, $3, $4, $6, $7);
 
 }
-#This will print the required data from /etc/passwd
+#This will print the required data from /etc/passwd 
 
 END {
 
