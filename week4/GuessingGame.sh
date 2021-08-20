@@ -44,4 +44,4 @@ echo "Script Game"
 
 getNumber "please type a number between 1 and 100" 42
 
-echo "Correct !!"
+echo "Right !!"
